@@ -3,7 +3,7 @@ const path = require('path');
 const { interfaces } = require('mocha');
 const calculatePoint = require('../caculatorPoint');
 const Datas = require('../Modules').Data
-// const performTest = require('../Modules').performTest
+const performTest = require('../Modules').performTest
 
 
 
@@ -222,11 +222,12 @@ keys.forEach(key => {
 const fs = require('fs');
 const filename = 'PerformanceData.txt';
 const outputFilePath = path.resolve(__dirname, 'Report', filename);
+
 Test_cases.forEach((test) => {
-    console.log(test.key)
+    
         describe(' Check Performace with '+test.key, function () {
             it(
-                'Check Performance Point = '+test.expected+': Detail : Task: ' +test.name +' , Action by: '+test.action+', Critial : '+test.critical,
+                'Check Performance Point = '+test.expected+': Detail : Task: ' +test.name +' , Action by: '+test.action+', Critical : '+test.critical,
                 function (done) {
                     expect(calculatePoint(test.key, test)).to.equal(test.expected);
                     const result = performTest(test);
@@ -239,9 +240,6 @@ Test_cases.forEach((test) => {
     });
 });
 
-function performTest(input) {
-        return 'PASS';
-    }
     
   
 

@@ -24,12 +24,9 @@ function Data(key,name,action,expected,critical){
 }
 
 function performTest(input) {
-    // test code
-    this.input = function(){
-        return 'PASS';
-    }
-    
-  }
+    return (input ?   '=> TEST CASE PASS' : '=> NOT VALUE' )
+   
+}
 
 module.exports = {
     DamagePoint,

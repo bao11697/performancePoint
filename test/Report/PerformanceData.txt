@@ -1,168 +1,168 @@
- Check Performace with messageData Check Performance Point = 120: Detail : Task: vin , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: plate_decode , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: make , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: model , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: year , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: body_type , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: trans , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 15: Detail : Task: int_status , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 15: Detail : Task: int_id , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: trim_id , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: plate_number , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_unit , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_reading , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_odom , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: qc_tire , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: qc_glass , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: qc_interior , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: ext_id , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: qc , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_vin , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_plate , Action by: inspector, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: vin , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: plate_decode , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: make , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: model , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: year , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: body_type , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: trans , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 5: Detail : Task: int_status , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 5: Detail : Task: int_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: trim_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: plate_number , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_unit , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_reading , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_odom , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: qc_tire , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: qc_glass , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: qc_interior , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: ext_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: qc , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_vin , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_plate , Action by: inspector, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 240: Detail : Task: vin , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: plate_decode , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: make , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: model , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: year , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 90: Detail : Task: body_type , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: trans , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: int_status , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: int_id , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: trim_id , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: plate_number , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_unit , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_reading , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_odom , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 90: Detail : Task: qc_tire , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_glass , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_interior , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 60: Detail : Task: ext_id , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 90: Detail : Task: qc , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 240: Detail : Task: qc_vin , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 240: Detail : Task: qc_plate , Action by: qa, Critial : true: PASS
- Check Performace with messageData Check Performance Point = 80: Detail : Task: vin , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: plate_decode , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: make , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: model , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: year , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: body_type , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: trans , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: int_status , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 10: Detail : Task: int_id , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: trim_id , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: plate_number , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_unit , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_reading , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_odom , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: qc_tire , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_glass , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_interior , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 20: Detail : Task: ext_id , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 30: Detail : Task: qc , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 80: Detail : Task: qc_vin , Action by: qa, Critial : undefined: PASS
- Check Performace with messageData Check Performance Point = 80: Detail : Task: qc_plate , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: vin , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: plate_decode , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: make , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: model , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: year , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: body_type , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: trans , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 15: Detail : Task: int_status , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 15: Detail : Task: int_id , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: trim_id , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: plate_number , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_unit , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_reading , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_odom , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc_tire , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: qc_glass , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: qc_interior , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: ext_id , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_vin , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_plate , Action by: inspector, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: vin , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: plate_decode , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: make , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: model , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: year , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: body_type , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: trans , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 5: Detail : Task: int_status , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 5: Detail : Task: int_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: trim_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: plate_number , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_unit , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_reading , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_odom , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: qc_tire , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: qc_glass , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: qc_interior , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: ext_id , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: qc , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_vin , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_plate , Action by: inspector, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 240: Detail : Task: vin , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: plate_decode , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: make , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: model , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: year , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 90: Detail : Task: body_type , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: trans , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: int_status , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: int_id , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: trim_id , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: plate_number , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_unit , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_reading , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_odom , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 90: Detail : Task: qc_tire , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_glass , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_interior , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 60: Detail : Task: ext_id , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 90: Detail : Task: qc , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 240: Detail : Task: qc_vin , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 240: Detail : Task: qc_plate , Action by: qa, Critial : true: PASS
- Check Performace with inspectData Check Performance Point = 80: Detail : Task: vin , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: plate_decode , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: make , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: model , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: year , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: body_type , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: trans , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: int_status , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 10: Detail : Task: int_id , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: trim_id , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: plate_number , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_unit , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_reading , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_odom , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc_tire , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_glass , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_interior , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 20: Detail : Task: ext_id , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 80: Detail : Task: qc_vin , Action by: qa, Critial : undefined: PASS
- Check Performace with inspectData Check Performance Point = 80: Detail : Task: qc_plate , Action by: qa, Critial : undefined: PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: vin , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: plate_decode , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: make , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: model , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: year , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: body_type , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: trans , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 15: Detail : Task: int_status , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 15: Detail : Task: int_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: trim_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: plate_number , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_unit , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_reading , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_odom , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: qc_tire , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: qc_glass , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: qc_interior , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: ext_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: qc , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_vin , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_plate , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: vin , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: plate_decode , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: make , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: model , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: year , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: body_type , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: trans , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 5: Detail : Task: int_status , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 5: Detail : Task: int_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: trim_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: plate_number , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_unit , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_reading , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_odom , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: qc_tire , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: qc_glass , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: qc_interior , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: ext_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: qc , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_vin , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_plate , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 240: Detail : Task: vin , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: plate_decode , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: make , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: model , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: year , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 90: Detail : Task: body_type , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: trans , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: int_status , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: int_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: trim_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: plate_number , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_unit , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: odom_reading , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_odom , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 90: Detail : Task: qc_tire , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_glass , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 120: Detail : Task: qc_interior , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 60: Detail : Task: ext_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 90: Detail : Task: qc , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 240: Detail : Task: qc_vin , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 240: Detail : Task: qc_plate , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 80: Detail : Task: vin , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: plate_decode , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: make , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: model , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: year , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: body_type , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: trans , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: int_status , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 10: Detail : Task: int_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: trim_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: plate_number , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_unit , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: odom_reading , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_odom , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: qc_tire , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_glass , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 40: Detail : Task: qc_interior , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 20: Detail : Task: ext_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 30: Detail : Task: qc , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 80: Detail : Task: qc_vin , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with messageData Check Performance Point = 80: Detail : Task: qc_plate , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: vin , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: plate_decode , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: make , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: model , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: year , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: body_type , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: trans , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 15: Detail : Task: int_status , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 15: Detail : Task: int_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: trim_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: plate_number , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_unit , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_reading , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_odom , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc_tire , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: qc_glass , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: qc_interior , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: ext_id , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_vin , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_plate , Action by: inspector, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: vin , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: plate_decode , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: make , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: model , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: year , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: body_type , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: trans , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 5: Detail : Task: int_status , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 5: Detail : Task: int_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: trim_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: plate_number , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_unit , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_reading , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_odom , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: qc_tire , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: qc_glass , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: qc_interior , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: ext_id , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: qc , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_vin , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_plate , Action by: inspector, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 240: Detail : Task: vin , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: plate_decode , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: make , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: model , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: year , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 90: Detail : Task: body_type , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: trans , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: int_status , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: int_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: trim_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: plate_number , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_unit , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: odom_reading , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_odom , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 90: Detail : Task: qc_tire , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_glass , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 120: Detail : Task: qc_interior , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 60: Detail : Task: ext_id , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 90: Detail : Task: qc , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 240: Detail : Task: qc_vin , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 240: Detail : Task: qc_plate , Action by: qa, Critical : true: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 80: Detail : Task: vin , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: plate_decode , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: make , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: model , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: year , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: body_type , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: trans , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: int_status , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 10: Detail : Task: int_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: trim_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: plate_number , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_unit , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: odom_reading , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_odom , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc_tire , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_glass , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 40: Detail : Task: qc_interior , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 20: Detail : Task: ext_id , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 30: Detail : Task: qc , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 80: Detail : Task: qc_vin , Action by: qa, Critical : undefined: => TEST CASE PASS
+ Check Performace with inspectData Check Performance Point = 80: Detail : Task: qc_plate , Action by: qa, Critical : undefined: => TEST CASE PASS

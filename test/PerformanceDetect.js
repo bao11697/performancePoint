@@ -3,12 +3,12 @@ const path = require('path');
 const { interfaces } = require('mocha');
 const calculatePoint = require('../caculatorPoint');
 const Detects = require('../Modules').DamagePoint
+const performTest = require('../Modules').performTest
 
 let key = 'detected_damages';
 let groups = ['BODY', 'GLASS', 'PART', 'WHEEL', 'TIRE'];
 let actions = ['inspector', 'qa'];
 let grade_scores = [1, 2, 3, 4];
-// let grade_scores = [1,2,3,9];
 let critials = [true, false];
 let plusPoint = 1;
 var expected = 1;
@@ -143,15 +143,12 @@ groups.forEach((group) => {
 });
 
 const fs = require('fs');
-
+const filename = 'PerformanceDetect.txt';
+const outputFilePath = path.resolve(__dirname, 'Report', filename);
 describe(' Check Performace with detected_damages', function () {
-
-    const filename = 'PerformanceDetect.txt';
-    const outputFilePath = path.resolve(__dirname, 'Report', filename);
-
         Test_cases.forEach((test) => {
             it('Check Performance Point = '+test.expected+': Detail : Damage_group: ' +test.damage_group +
-                    ', grade_score = ' +test.grade_score +', Action by: '+test.action+', Critial : '+test.critical,
+                    ', grade_score = ' +test.grade_score +', Action by: '+test.action+', Critical : '+test.critical,
                 function (done) { 
                     expect(calculatePoint(test.key, test)).to.equal(test.expected,)
                     const result = performTest(test);
@@ -165,8 +162,5 @@ describe(' Check Performace with detected_damages', function () {
 
 });
 
-function performTest(input) {
-    // test code
-    return 'PASS';
-  }
+
 
